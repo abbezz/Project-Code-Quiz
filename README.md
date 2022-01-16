@@ -4,7 +4,6 @@ I was given the task to create a Javascript fundamental quiz to gauge the progre
 
 The user can now start the quiz with 75 seconds to answer 7 mulitple choice questions. Any time the answer chooses the correct answer it moves on to the next question. If the user answers incorrectly, they are notified that their answer is incorrect. At the end of the quiz, the user can record their score and view all other scores that are recorded. The user also has the option to clear all the existing scores.
 
-Though I sucuessfully completed the assesment I found it extremely challenging and got assistance for every part of the challenege. 
 
 ![images1](https://user-images.githubusercontent.com/94430401/149682158-86d17317-059a-4085-826d-5e9f824b2094.png) 
 
@@ -17,9 +16,11 @@ Though I sucuessfully completed the assesment I found it extremely challenging a
 # Resources
 
 https://www.youtube.com/watch?v=riDzcEQbX6k
+
 https://www.w3schools.com/howto/howto_js_countdown.asp
 
 
-Link: https://abbezz.github.io/Project-Code-Quiz/
+
+Links: https://abbezz.github.io/Project-Code-Quiz/
 
 https://github.com/abbezz/Project-Code-Quiz
