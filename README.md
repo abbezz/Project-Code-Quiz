@@ -1,11 +1,16 @@
-# 04 Web APIs: Code Quiz
- # Description
-I was given the task to create a Javascript fundamental quiz to gauge the progress of coding students. The app needs to include a timer, mulitple choice questions and the ability to record and store high scores. The app uses HTML, CSS and Javascript to create a clean, easy to use interface.
+# Hi, I'm Abdollah! 👋
+# Web APIs: Code Quiz
+
+
+
+
+
+## Getting Started 
+This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link.
+
+I was given the task to create a Javascript fundamental quiz. The app needs to include a timer, mulitple choice questions and the ability to record and store high scores. The app uses HTML, CSS and Javascript to create a clean, easy to use interface.
 
 The user can now start the quiz with 75 seconds to answer 7 mulitple choice questions. Any time the answer chooses the correct answer it moves on to the next question. If the user answers incorrectly, they are notified that their answer is incorrect. At the end of the quiz, the user can record their score and view all other scores that are recorded. The user also has the option to clear all the existing scores.
-
-  I sucuessfully completed the assesment I found it extremely challenging and got assistance for every part of the challenege.I enjoyed creating this Quiz.
-
 
 ![images1](https://user-images.githubusercontent.com/94430401/149682158-86d17317-059a-4085-826d-5e9f824b2094.png) 
 
@@ -26,3 +31,29 @@ https://www.w3schools.com/howto/howto_js_countdown.asp
 Links: https://abbezz.github.io/Project-Code-Quiz/
 
 https://github.com/abbezz/Project-Code-Quiz
+
+## Other Common Github Profile Sections
+
+
+🧠 I'm currently learning... Full stack developer
+
+📫 How to reach me... abbezz@live.com 
+
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Features
+One HTML Page
+Index.html
+Contains landing page to start timer
+
+One CSS Page
+Styles.css
+Contains centering and styling for html list features
+Contains media queries
+
+Two Javascript Page * Contains: * Variables, including arrays with object * Event listeners * if/else if statements * For Loops * Functions * Local Storage set and get
