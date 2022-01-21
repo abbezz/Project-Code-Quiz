@@ -28,9 +28,9 @@ https://www.w3schools.com/howto/howto_js_countdown.asp
 
 
 
-Links: https://abbezz.github.io/Project-Code-Quiz/
+ Links: https://abbezz.github.io/Project-Code-Quiz/
 
-https://github.com/abbezz/Project-Code-Quiz
+ Links: https://github.com/abbezz/Project-Code-Quiz
 
 ## Other Common Github Profile Sections
 
